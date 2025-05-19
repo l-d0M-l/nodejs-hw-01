@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "d745c6e3-f5b2-4e2e-a995-8e90ba7cd868",
+    "name": "Bobby Windler",
+    "phone": "333.333.1120 x1612",
+    "email": "Cristian_McCullough@hotmail.com",
+    "job": "Lead Brand Director"
+  },
+  {
+    "id": "fb4d05d2-a8cd-4317-96c3-490846613527",
+    "name": "Juanita Nader",
+    "phone": "1-318-269-6485 x731",
+    "email": "Nola11@hotmail.com",
+    "job": "Senior Brand Specialist"
+  },
+  {
+    "id": "b38824f8-968b-4a77-9087-26ff11a2dc57",
+    "name": "Elmer Larkin",
+    "phone": "839.581.9759 x2555",
+    "email": "Cleora.Mayer37@yahoo.com",
+    "job": "Central Accountability Strategist"
+  }
+]
